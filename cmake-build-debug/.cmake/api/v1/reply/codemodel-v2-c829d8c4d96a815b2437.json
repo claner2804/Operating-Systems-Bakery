@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Grossbaeckerei_Mac",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Grossbaeckerei_Mac::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Grossbaeckerei_Mac-Debug-b256a98a5eecd0bb6ef6.json",
+					"name" : "Grossbaeckerei_Mac",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/admin/Library/CloudStorage/OneDrive-mci4me.at/Digital Business & Software Engineering/Semester 3/Betriebssysteme/Altklausuren praxis/Grossbaeckerei/cmake-build-debug",
+		"source" : "/Users/admin/Library/CloudStorage/OneDrive-mci4me.at/Digital Business & Software Engineering/Semester 3/Betriebssysteme/Altklausuren praxis/Grossbaeckerei"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

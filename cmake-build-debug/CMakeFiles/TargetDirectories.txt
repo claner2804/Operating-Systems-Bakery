@@ -1,0 +1,3 @@
+/Users/admin/Library/CloudStorage/OneDrive-mci4me.at/Digital Business & Software Engineering/Semester 3/Betriebssysteme/Altklausuren praxis/Grossbaeckerei/cmake-build-debug/CMakeFiles/Grossbaeckerei_Mac.dir
+/Users/admin/Library/CloudStorage/OneDrive-mci4me.at/Digital Business & Software Engineering/Semester 3/Betriebssysteme/Altklausuren praxis/Grossbaeckerei/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Library/CloudStorage/OneDrive-mci4me.at/Digital Business & Software Engineering/Semester 3/Betriebssysteme/Altklausuren praxis/Grossbaeckerei/cmake-build-debug/CMakeFiles/rebuild_cache.dir
